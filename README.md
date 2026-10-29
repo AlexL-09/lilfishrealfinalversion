@@ -5,7 +5,7 @@ A LÖVE card game about a tiny fish learning Go Fish with an axolotl trainer and
 Music asset: Music: "Fragment of Tomorrow -アスノカケラ-" by Space_Cat, via Pixabay
 
 Run: <br></br>
-Download the repository ZIP and extract it, then follow the instructions for your platform
+Download the repository ZIP and extract it, then follow the instructions for your platform. The other files are NOT necessary to play the game.
 <br></br>
 <h2>Gameplay:</h2><br></br>
 <img width="1285" height="747" alt="Screenshot 2026-10-25 185103" src="https://github.com/user-attachments/assets/90463447-505e-4b52-8d2e-bd031ecdefe8" />
